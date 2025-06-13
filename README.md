@@ -38,10 +38,10 @@ Description: Illustrate the proportion of electric vehicles that are eligible fo
 Visualization: Tree map
 Description: Highlight the top 10 electric vehicle models based on the total number of vehicles, offering insights into consumer preferences and popular models in the market.
 
-# Data Set used in this Project is :
+## Data Set used in this Project is :
 - <a href="https://github.com/AnuragBarkhane/Data-Analysis-for-EV-/blob/main/Electric%20Vehicle%20Presentation.pptx">Data Set</a>
 
-# Dashboard Interaction
+## Dashboard Interaction
 - <a href="https://github.com/AnuragBarkhane/Data-Analysis-for-EV-">Dashboard</a>
 ## Process
 -Verify data for any missing values and anomalies , and sort out the same.
