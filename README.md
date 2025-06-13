@@ -1,8 +1,9 @@
 # ELECTRIC-VEHICLE-DATA ANALYSIS(Interactive Dashboard creation using MS Excel)
-## Project Objective
-KPI’S Requirement
+# Project Objective
+The primary objective of Electric Vehicle (EV) Data Analysis is to extract meaningful insights from vehicle-related datasets to support data-driven decision-making in areas such as performance optimization, user behavior analysis, energy efficiency, charging infrastructure planning, and market trends. This analysis helps stakeholders—including manufacturers, policymakers, and consumers—understand the operational patterns, identify bottlenecks, forecast demand, and improve the overall ecosystem of electric vehicles.
 
-# Total Vehicles:
+# KPI’S Requirement
+
 1. Total Vehicles:
 Understand the overall landscape of electric vehicles, encompassing both BEVs and PHEVs, to assess the market's size and growth.
 2. Average Electric Range:
@@ -37,11 +38,11 @@ Description: Illustrate the proportion of electric vehicles that are eligible fo
 Visualization: Tree map
 Description: Highlight the top 10 electric vehicle models based on the total number of vehicles, offering insights into consumer preferences and popular models in the market.
 
-## Data Set used in this Project is :
+# Data Set used in this Project is :
 - <a href="https://github.com/AnuragBarkhane/Data-Analysis-for-EV-/blob/main/Electric%20Vehicle%20Presentation.pptx">Data Set</a>
 
 # Dashboard Interaction
-- <a href="https://github.com/AnuragBarkhane/Data-Analysis-for-EV-">
+- <a href="https://github.com/AnuragBarkhane/Data-Analysis-for-EV-">Dashboard</a>
 ## Process
 -Verify data for any missing values and anomalies , and sort out the same.
 -Make sure data is consistent and clean with respect to data type , data format and values used.
@@ -49,5 +50,5 @@ Description: Highlight the top 10 electric vehicle models based on the total num
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
 ## Dashboard 
-- Screenshot <a href="https://github.com/AnuragBarkhane/Data-Analysis-for-EV-/blob/main/Screenshot%202025-06-13%20203254.png">
+- <a href="https://github.com/AnuragBarkhane/Data-Analysis-for-EV-/blob/main/Screenshot%202025-06-13%20203254.png">Screenshot</a>
 
