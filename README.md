@@ -43,12 +43,14 @@ Description: Highlight the top 10 electric vehicle models based on the total num
 
 ## Dashboard Interaction
 - <a href="https://github.com/AnuragBarkhane/Data-Analysis-for-EV-">Dashboard</a>
+
+## Dashboard 
+- ![Screenshot 2025-06-13 203254](https://github.com/user-attachments/assets/199b1eb3-e3f7-48c4-a267-a5d17401d5b4)
+
 ## Process
 -Verify data for any missing values and anomalies , and sort out the same.
 -Make sure data is consistent and clean with respect to data type , data format and values used.
 - Created pivot tables according to the questions asked.
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
-## Dashboard 
-- <a href="https://github.com/AnuragBarkhane/Data-Analysis-for-EV-/blob/main/Screenshot%202025-06-13%20203254.png">Screenshot</a>
 
