@@ -1,21 +1,19 @@
 # ELECTRIC-VEHICLE-DATA ANALYSIS(Interactive Dashboard creation using MS Excel)
 ## Project Objective
- KPI’S Requirement
+KPI’S Requirement
 
-Total Vehicles:
-1. Understand the overall landscape of electric vehicles, encompassing both BEVs and PHEVs, to assess the market's size and growth.
-2. 
-3. Average Electric Range:
+# Total Vehicles:
+1. Total Vehicles:
+Understand the overall landscape of electric vehicles, encompassing both BEVs and PHEVs, to assess the market's size and growth.
+2. Average Electric Range:
 Determine the average electric range of the electric vehicles in the dataset to gauge the technological advancements and efficiency of the EVs.
-
-4. Total BEV Vehicles and % of Total BEV Vehicles:
+3. Total BEV Vehicles and % of Total BEV Vehicles:
 Identify and analyze the total number of Battery Electric Vehicles (BEVs) in the dataset.
-
-5. Calculate the percentage of BEVs relative to the total number of electric vehicles, providing insights into the dominance of fully electric models.
-
-6. Total PHEV Vehicles and % of Total PHEV Vehicles:
+Calculate the percentage of BEVs relative to the total number of electric vehicles, providing insights into the dominance of fully electric models.
+4. Total PHEV Vehicles and % of Total PHEV Vehicles:
 Identify and analyze the total number of Plug-in Hybrid Electric Vehicles (PHEVs) in the dataset.
 Calculate the percentage of PHEVs relative to the total number of electric vehicles, offering insights into the market share of plug-in hybrid models.
+
 
 # Charts Requirement
 
@@ -38,3 +36,18 @@ Description: Illustrate the proportion of electric vehicles that are eligible fo
 8. Top 10 Total Vehicles by Model:
 Visualization: Tree map
 Description: Highlight the top 10 electric vehicle models based on the total number of vehicles, offering insights into consumer preferences and popular models in the market.
+
+## Data Set used in this Project is :
+- <a href="https://github.com/AnuragBarkhane/Data-Analysis-for-EV-/blob/main/Electric%20Vehicle%20Presentation.pptx">Data Set</a>
+
+# Dashboard Interaction
+- <a href="https://github.com/AnuragBarkhane/Data-Analysis-for-EV-">
+## Process
+-Verify data for any missing values and anomalies , and sort out the same.
+-Make sure data is consistent and clean with respect to data type , data format and values used.
+- Created pivot tables according to the questions asked.
+- Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+
+## Dashboard 
+- Screenshot <a href="https://github.com/AnuragBarkhane/Data-Analysis-for-EV-/blob/main/Screenshot%202025-06-13%20203254.png">
+
